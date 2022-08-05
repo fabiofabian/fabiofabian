@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge)](mailto:fabiosfabian@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ofabiofabian/)
 
-![Fabio's GitHub status](https://github-readme-stats.vercel.app/api?username=fabio-fabian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+![Fabio's GitHub status](https://github-readme-stats.vercel.app/api?username=fabiofabian&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
 #### Technologies I'm working and studying:
 <div style="display: inline_block"><br/>
