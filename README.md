@@ -15,7 +15,6 @@
   <img align="center" alt"C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt"Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt"Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt"C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt"Angular" src="https://img.shields.io/badge/Angular-239120?style=for-the-badge&logo=angular&logoColor=white"/>
   <img align="center" alt"Vuejs" src="https://img.shields.io/badge/Vue.js-239120?&style=for-the-badge"/>
 </div>
